@@ -1,2 +1,2 @@
 # Server_Public
-Test
+This is a test server
